@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<lesclients>
+  <client idclient="158845148583">
+    <nomcomplet>Willy pierre jean</nomcomplet>
+    <ville>Petion-Ville</ville>
+  </client>
+  <client idclient="158860375895">
+    <nomcomplet>sandy larosiliere</nomcomplet>
+    <ville>delmas 2</ville>
+  </client>
+  <client idclient="159016585429">
+    <nomcomplet>Niska Louis</nomcomplet>
+    <ville>Carrefour Rita</ville>
+  </client>
+  <client idclient="1232324455533">
+    <nomcomplet>Willy Dorval</nomcomplet>
+    <ville>Cabaret</ville>
+  </client>
+</lesclients>
